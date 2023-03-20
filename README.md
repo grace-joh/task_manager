@@ -1,24 +1,5 @@
-# README
+# Task Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I am using Rails to build an application that can manage some tasks via guided directions listed below:
+- [CRUD/Set up Tutorial](https://github.com/turingschool-examples/task_manager_rails)
+- [Model Testing](https://backend.turing.edu/module2/lessons/model_testing)
